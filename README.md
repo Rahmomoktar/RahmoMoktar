@@ -8,10 +8,10 @@
   <a href="mailto:rahma.moktar122@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧-Email-black?style=for-the-badge&logo=gmail&logoColor=pink" />
   </a>
-  <a href="[https://www.instagram.com/yourusername](https://www.instagram.com/amaaay_m.oomar/?igsh=dWRsbjhmdDNjbW5v#)" target="_blank">
+  <a href="https://www.instagram.com/amaaay_m.oomar/" target="_blank">
     <img src="https://img.shields.io/badge/📸-Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/💼-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink" />
   </a>
 </p>
@@ -45,10 +45,18 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:rahma.moktar122@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=pink" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink" /></a>
-  <a href="[https://www.instagram.com/your-instagram](https://www.instagram.com/amaaay_m.oomar/?igsh=dWRsbjhmdDNjbW5v#)"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=firefox" /></a>
+  <a href="mailto:rahma.moktar122@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=pink" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink" />
+  </a>
+  <a href="https://www.instagram.com/amaaay_m.oomar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=firefox" />
+  </a>
 </p>
 
 ---
